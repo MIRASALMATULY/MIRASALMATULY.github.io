@@ -1,0 +1,73 @@
+ .header {
+  width: 100%;
+  height: 77px;
+  background-color: black;
+
+}
+
+.main  {
+  margin: auto;
+  width: 935px;
+  background-color: #3a3ec1;
+
+}
+.user {
+  display: flex;
+  height: 150px;
+  width: 935px;
+  background-color: #c3cfe2;
+
+}
+
+.avatar {
+   width: 291px;
+   height: 160px;
+   background-color: white;
+}
+
+.discription {
+   width: 644px;
+   height: 150px;
+   background-color: #5cf2c0;
+}
+
+.photo {
+  width: 935px;
+  background-color: red;
+
+}
+
+.line {
+  width: 935px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.picture {
+  width: 293px;
+  height: 293px;
+  background-color: #53dee0;
+  margin: 5px;
+}
+
+.public {
+  width: 935px;
+  height: 44px;
+  background-color:  #7f8691;
+
+}
+
+.история {
+  width: 935px;
+  height: 48px;
+  background-color: #c5e2d2;
+
+}
+
+.окно {
+  height: 60px;
+  background-color: #b3bc93;
+
+}
